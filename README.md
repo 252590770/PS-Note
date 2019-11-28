@@ -121,7 +121,6 @@ ctrl+t （快捷键），可以改变所选图层大小，旋转。
 	    * CTRL + SHIFT + [
 
 	    * CTRL + SHIFT + ]
-
 	  1. 将图层上移或下移一层
 
 	    * CTRL + [
