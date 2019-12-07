@@ -429,6 +429,14 @@ ctrl+t （快捷键），可以改变所选图层大小，旋转。
 
  <img src="/img/文本框说明.png" width="400"  >
 
+ #### 文字排版应用
+
+ <img src="/img/文字排版应用.png" width="400"  >
+
+ <img src="/img/文字效果2.png" width="400"  >
+
+
+
 
 
     
