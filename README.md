@@ -311,11 +311,11 @@ ctrl+t （快捷键），可以改变所选图层大小，旋转。
  * 特点：画笔工具颜色是由前景色决定，我们可以利用不同的笔刷进行涂抹绘画。
  * 更改笔刷方法：选择画笔工具，点击“切换画笔”
 
-	![路径转换为选区方法1](https://github.com/252590770/PS-Note/blob/master//img/ggbs.png)
+	![路径转换为选区方法1](https://github.com/252590770/PS-Note/blob/master/img/ggbs.png)
 
  *常用的画笔：模糊和生硬  
 
-	![路径转换为选区方法2](https://github.com/252590770/PS-Note/blob/master//img/cyhb.png)
+	![路径转换为选区方法2](https://github.com/252590770/PS-Note/blob/master/img/cyhb.png)
 
  * 画笔的大小更改：（英文输入法情况下）左右括号，放大缩小
 
