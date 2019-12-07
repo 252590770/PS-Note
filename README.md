@@ -313,7 +313,7 @@ ctrl+t （快捷键），可以改变所选图层大小，旋转。
 
 	![路径转换为选区方法1](https://github.com/252590770/PS-Note/blob/master/img/ggbs.png)
 
- *常用的画笔：模糊和生硬  
+ * 常用的画笔：模糊和生硬  
 
 	![路径转换为选区方法2](https://github.com/252590770/PS-Note/blob/master/img/cyhb.png)
 
