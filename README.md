@@ -350,13 +350,11 @@ ctrl+t （快捷键），可以改变所选图层大小，旋转。
   * 白色：透明（不要用这个颜色定义画笔）
   * 彩色：半透明
 
-	<img src="/img/自定义画笔.png" width="400" alt="自定义画笔" >
+  <img src="/img/自定义画笔.png" width="400" alt="自定义画笔" >
 
+  <img src="/img/自定义泡泡画笔.png" width="400" alt="自定义泡泡画笔" >
 
-	<img src="/img/自定义泡泡画笔.png" width="400" alt="自定义泡泡画笔" >
-
-
-	<img src="/img/泡泡效果.png" width="400" alt="泡泡效果" >
+  <img src="/img/泡泡效果.png" width="400" alt="泡泡效果" >
 
 ## 画笔描边
 
@@ -364,11 +362,9 @@ ctrl+t （快捷键），可以改变所选图层大小，旋转。
 
  * 方法二：（了解）绘制好路径后设置画笔属性，在钢笔工具、形状工具、小黑小白工具组的情况下，在路径上单击右键即可
 
-	<img src="/img/粒子效果1.png" width="400" alt="粒子效果1" >
+  <img src="/img/粒子效果1.png" width="400" alt="粒子效果1" >
 
-
-
-	<img src="/img/粒子效果2.png" width="400"  >
+  <img src="/img/粒子效果2.png" width="400"  >
 
 ## 图案的定义
 
