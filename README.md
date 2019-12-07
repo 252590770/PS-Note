@@ -327,19 +327,19 @@ ctrl+t （快捷键），可以改变所选图层大小，旋转。
 
 	* 画笔面板
 
-		<img src="/img/画笔面板.png" width="400" >
+		<img src="/img/画笔面板.png" width="400" alt="画笔面板" >
 	
 	* 间距
 
-		<img src="/img/jianju.png" width="400" >
+		<img src="/img/jianju.png" width="400" alt="间距" >
 
 	* 颜色动态
 
-		<img src="/img/颜色动态.png" width="400" >
+		<img src="/img/颜色动态.png" width="400" alt="颜色动态" >
 
 	* 叠加透明度
 
-		<img src="/img/叠加透明度.png" width="400" >
+		<img src="/img/叠加透明度.png" width="400" alt="叠加透明度" >
 
 
 
