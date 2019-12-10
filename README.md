@@ -782,11 +782,11 @@ ctrl+t （快捷键），可以改变所选图层大小，旋转。
  
  #### 案例
 
-      <img src="/img/黑白原图.png" width="400"  >
+   <img src="/img/黑白原图.png" width="400"  >
 
-      <img src="/img/黑白效果1.png" width="400"  >
+   <img src="/img/黑白效果1.png" width="400"  >
 
-      <img src="/img/黑白效果2.png" width="400"  >
+   <img src="/img/黑白效果2.png" width="400"  >
 
       * 可以选择性增加区域的亮度，调整皮肤是颜色更红，在黑白照片中就表现的更白。
 
